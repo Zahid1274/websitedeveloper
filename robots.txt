@@ -1,6 +1,0 @@
-# Allow search engines to crawl the public site.
-User-agent: *
-Allow: /
-
-# Primary sitemap for Google Search Console.
-Sitemap: https://zahid1274.github.io/websitedeveloper/sitemap.xml
