@@ -4,38 +4,36 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://zahid1274.github.io/websitedeveloper/</loc>
-  <lastmod>2026-03-20T03:48:30+00:00</lastmod>
+  <lastmod>2026-08-01</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://zahid1274.github.io/websitedeveloper/index.html</loc>
-  <lastmod>2026-03-20T03:48:30+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://zahid1274.github.io/websitedeveloper/about.html</loc>
-  <lastmod>2026-03-20T03:48:30+00:00</lastmod>
+  <lastmod>2026-08-01</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zahid1274.github.io/websitedeveloper/services.html</loc>
-  <lastmod>2026-03-20T03:48:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2026-08-01</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://zahid1274.github.io/websitedeveloper/projects.html</loc>
-  <lastmod>2026-03-20T03:48:30+00:00</lastmod>
+  <lastmod>2026-08-01</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zahid1274.github.io/websitedeveloper/contact.html</loc>
-  <lastmod>2026-03-20T03:48:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2026-08-01</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.90</priority>
 </url>
 
 
